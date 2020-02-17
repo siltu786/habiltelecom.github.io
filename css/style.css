@@ -30,18 +30,6 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
 }
-
-h2 {
-  color: #292929;
-  font-weight: 600;
-}
-
-h4 {
-  color: #292929;
-  font-size: 14px;
-  font-weight: 600;
-}
-
 a {
   color: #292929;
   text-decoration: none !important;
@@ -195,6 +183,7 @@ nav {
   padding-top: 16px;
 }
 
+
 nav ul li {
   float: left;
   margin-right: 15px;
@@ -279,7 +268,7 @@ nav ul li a {
 }
 
 .header-content .list-social li i {
-  color: #fff;
+  color: #b8a07e;
   font-size: 15px;
 }
 
